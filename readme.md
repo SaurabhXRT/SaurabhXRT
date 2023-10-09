@@ -37,7 +37,7 @@ Here are some of the technologies and tools that I work with:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaurabhXRT&show_icons=true&count_private=true&theme=radical)
 
 ## 🌟 Featured Projects
 
