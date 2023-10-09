@@ -46,7 +46,7 @@ Here are some of the technologies and tools that I work with:
    - **GitHub Repository:** [Brainbulb Repository](https://github.com/SaurabhXRT/brainbulbV1.0.0)
 
 ## Github Count
--![GitHub language count](https://img.shields.io/github/languages/count/saurabhxrt/braibbulbv1.0.0)
+-![GitHub language count](https://img.shields.io/github/languages/count/saurabhxrt/brainbulbV1.0.0)
 
 ## 🤝 Connect with Me
 
