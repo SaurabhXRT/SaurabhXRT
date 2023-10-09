@@ -44,7 +44,8 @@ Here are some of the technologies and tools that I work with:
 1. **Brainbulb - Connect, Share, Learn**
    - **Description:** Brainbulb is a dynamic and collaborative social media platform designed for students, educators, and anyone passionate about learning. It facilitates the sharing of educational content, doubts, and resources while fostering a supportive community of learners. Built using a stack of modern technologies, this platform is feature-rich and secure.
    - **GitHub Repository:** [Brainbulb Repository](https://github.com/SaurabhXRT/brainbulbV1.0.0)
-##Github Count
+
+## Github Count
 -![GitHub language count](https://img.shields.io/github/languages/count/saurabhxrt/braibbulbv1.0.0)
 
 ## 🤝 Connect with Me
