@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name](https://yourwebsite.com) 👋
+# Hi there, I'm [Saurabh Kumar](https://isaurabh.vercel.app/) 👋
 
 I'm a passionate developer and open-source enthusiast from [Your City, Country](https://maps.google.com). Here, you'll find some of my latest projects and a bit about me.
 
@@ -45,9 +45,7 @@ Let's connect and chat! You can find me on these platforms:
 
 Feel free to reach out and say hi! 👋
 
-```markdown
 
-Make sure to replace the placeholders with your information, such as your name, website, GitHub username, project links, and social media profiles. You can also customize the theme and badges to match your style.
 
-To create your own GitHub profile README, simply create a new repository with the same name as your GitHub username (e.g., if your username is "yourusername," create a repository named "yourusername"). Then, create a `README.md` file in the repository and paste the Markdown code above into it. GitHub will automatically render it on your profile.
+
 
