@@ -15,25 +15,24 @@ I am a 3rd year student studying in National Institute of Technology Agartala Tr
 
 Here are some of the technologies and tools that I work with:
 
-[<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100">](https://www.javascript.com/)
-[<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" width="100">](https://reactjs.org/)
-[<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black" width="100">](https://nodejs.org/)
-[<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=black" width="100">](https://www.python.org/)
-[<img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" width="100">](https://www.learn-c.org/)
-[<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black" width="100">](https://www.cplusplus.com/)
-[<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" width="100">](https://www.mongodb.com/)
-[<img src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white" width="100">](https://www.json.org/)
-[<img src="https://img.shields.io/badge/-Cookies-FFA500?style=for-the-badge&logo=cookie&logoColor=white" width="100">](https://en.wikipedia.org/wiki/HTTP_cookie)
-[<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" width="100">](https://expressjs.com/)
-[<img src="https://img.shields.io/badge/-Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" width="100">](https://www.blockchain.com/)
-[<img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" width="100">](https://soliditylang.org/)
-[<img src="https://img.shields.io/badge/-Web3-8994E3?style=for-the-badge&logo=web3.js&logoColor=black" width="100">](https://web3js.readthedocs.io/)
-[<img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=black" width="100">](https://ethereum.org/)
-[<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=black" width="100">](https://code.visualstudio.com/)
-[<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=black" width="100">](https://git-scm.com/)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
+![Cookies](https://img.shields.io/badge/-Cookies-FFA500?style=flat-square&logo=cookie&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3](https://img.shields.io/badge/-Web3-8994E3?style=flat-square&logo=web3.js&logoColor=black)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black)
 
 
 ## 📊 GitHub Stats
