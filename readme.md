@@ -1,4 +1,4 @@
-![Coding GIF](<iframe src="https://giphy.com/embed/aEwLTJvYxwo1L09oyP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nuevofoundation-coding-stem-anyonecancode-aEwLTJvYxwo1L09oyP">via GIPHY</a></p>)
+![Coding GIF](https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif)
 
 # Hi there, I'm [Saurabh Kumar](https://isaurabh.vercel.app/) 👋
 
