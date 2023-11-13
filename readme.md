@@ -1,5 +1,4 @@
 ![Coding GIF](https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif)
-
 # Hi there, I'm [Saurabh Kumar](https://isaurabh.vercel.app/) 👋
 
 I am a 3rd year student studying in National Institute of Technology Agartala Tripura. I am a passionate software engineer and full-stack web developer with a deep love for crafting digital solutions. My journey in the tech world has equipped me with a diverse skill set, spanning from front-end technologies like HTML, CSS, and JavaScript to back-end frameworks such as Node.js. I thrive on challenges, consistently pushing the boundaries of innovation to deliver elegant, user-centric applications.
