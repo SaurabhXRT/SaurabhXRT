@@ -39,17 +39,15 @@ Here are some of the technologies and tools that I work with:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaurabhXRT&show_icons=true&count_private=true&theme=radical)
 
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhXRT&layout=compact&theme=radical)
+
 ## 🌟 Featured Projects
 
 1. **Brainbulb - Connect, Share, Learn**
    - **Description:** Brainbulb is a dynamic and collaborative social media platform designed for students, educators, and anyone passionate about learning. It facilitates the sharing of educational content, doubts, and resources while fostering a supportive community of learners. Built using a stack of modern technologies, this platform is feature-rich and secure.
    - **GitHub Repository:** [Brainbulb Repository](https://github.com/SaurabhXRT/brainbulbV1.0.0)
 
-<!-- Profile Views Badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=SaurabhXRT&color=blueviolet&style=flat-square)
-
-<!-- Most Used Languages Badge -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhXRT&layout=compact&theme=radical)
 
 ## 🤝 Connect with Me
 
@@ -62,6 +60,9 @@ Let's connect and chat! You can find me on these platforms:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SaurabhXRT)
 
 Feel free to reach out and say hi! 👋
+
+## 🌐 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=SaurabhXRT&color=blueviolet&style=flat-square)
 
 
 
