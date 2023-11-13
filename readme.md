@@ -1,4 +1,4 @@
-![Coding GIF](https://media.giphy.com/media/your-gif-url.gif)
+![Coding GIF](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
 
 # Hi there, I'm [Saurabh Kumar](https://isaurabh.vercel.app/) 👋
 
