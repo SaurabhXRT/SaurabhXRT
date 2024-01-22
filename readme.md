@@ -42,6 +42,9 @@ Here are some of the technologies and tools that I work with:
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhXRT&layout=compact&theme=radical)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SaurabhXRT&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🌟 Featured Projects
 
 1. **Brainbulb - Connect, Share, Learn**
