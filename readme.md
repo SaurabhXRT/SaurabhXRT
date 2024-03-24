@@ -66,8 +66,8 @@ Let's connect and chat! You can find me on these platforms:
 
 [![Website](https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=appveyor)](https://isaurabh.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurabh-kumar-xrt/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Deadpoo53161241)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/_saurabh_babu_/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/saurabhxrt)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/_saurabh___xrt__/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SaurabhXRT)
 
 Feel free to reach out and say hi! 👋
