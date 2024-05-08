@@ -1,13 +1,13 @@
 ![Coding GIF](https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif)
 # Hi there, I'm [Saurabh Kumar](https://isaurabh.vercel.app/) 👋
 
-I'm a third-year student at the National Institute of Technology Agartala, with a burning passion for software development. 🚀 Equipped with a wide range of skills, I dive into creating digital solutions that tackle real-world challenges head-on. From designing sleek user interfaces to building robust back-end systems, I revel in every aspect of the development process. 💻 Constantly seeking innovation, I thrive in challenging environments that push me to think outside the box. With a strong dedication to user-centric design, I'm committed to delivering applications that not only meet but exceed expectations. Let's code and make magic happen! ✨
+I'm a third-year student at the National Institute of Technology Agartala, with a passion for software development. 🚀 Equipped with a wide range of skills, I dive into creating digital solutions that tackle real-world challenges head-on. 🛠️ I love building cool stuff that solves real problems. Let's code and make tech magic happen! ✨
 
 ## 🚀 Quick Overview
 
-- 🔭 I’m currently working on [Brainbulb](https://brainbulb.vercel.app/)
-- 🌱 I’m currently learning blockchain technology
-- 👯 I’m looking to collaborate on open source projects
+- 🔭 I’m currently working as a software developer.
+- 🌱 I’m currently learning blockchain technology.
+- 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything tech-related or just chat!
 - 📫 How to reach me: [Email](mailto:saurabhbabu287@gmail.com)
 - 😄 Pronouns: He/Him
