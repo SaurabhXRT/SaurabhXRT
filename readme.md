@@ -50,6 +50,10 @@ Here are some of the technologies and tools that I work with:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaurabhXRT&show_icons=true&count_private=true&theme=radical)
 
+## 📊 Topics Over Time
+
+[![SaurabhXRT's GitHub | Topics Over Time](https://stats.quine.sh/SaurabhXRT/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SaurabhXRT)
+
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhXRT&layout=compact&theme=radical)
 
