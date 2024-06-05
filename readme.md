@@ -1,4 +1,4 @@
-![Coding GIF](https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif)
+
 # Hi there, I'm [Saurabh Kumar](https://isaurabh.vercel.app/) 👋
 
 I'm a third-year student at the National Institute of Technology Agartala, with a passion for software development. 🚀 Equipped with a wide range of skills, I dive into creating digital solutions that tackle real-world challenges head-on. 🛠️ I love building cool stuff that solves real problems. Let's code and make tech magic happen! ✨
