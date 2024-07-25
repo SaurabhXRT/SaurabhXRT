@@ -1,7 +1,7 @@
 
 # Hi there, I'm [Saurabh Kumar](https://isaurabh.vercel.app/) 👋
 
-I'm a fourth year student at the National Institute of Technology Agartala, with a passion for software development. 🚀 Equipped with a wide range of skills, I dive into creating digital solutions that tackle real-world challenges head-on. 🛠️ Let's code and make tech magic happen! ✨
+I'm a final year BTech student at the National Institute of Technology Agartala, with a passion for software development. 🚀 Equipped with a wide range of skills, I dive into creating digital solutions that tackle real-world challenges head-on. 🛠️ Let's code and make tech magic happen! ✨
 
 ## 🚀 Quick Overview
 
